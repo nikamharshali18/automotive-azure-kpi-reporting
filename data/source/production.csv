@@ -1,0 +1,6 @@
+production_id,production_date,plant,model,units_produced,target_units
+1,2026-10-01,Pune,SUV,500,550
+2,2026-10-01,Chennai,Sedan,400,400
+3,2026-10-02,Pune,Sedan,450,500
+4,2026-10-02,Chennai,SUV,600,650
+5,2026-10-03,Pune,SUV,550,550

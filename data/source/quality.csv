@@ -1,0 +1,6 @@
+inspection_id,inspection_date,plant,model,inspected_units,defective_units
+201,2026-10-01,Pune,SUV,500,10
+202,2026-10-01,Chennai,Sedan,400,8
+203,2026-10-02,Pune,Sedan,450,9
+204,2026-10-02,Chennai,SUV,600,12
+205,2026-10-03,Pune,SUV,550,11
